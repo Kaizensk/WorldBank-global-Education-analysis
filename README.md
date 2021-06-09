@@ -4,7 +4,7 @@ On the basis of Global education Dataset, We analyzed different features and cam
 
 How are different income group countries having impact on their education stats?
 
-What is population growth trend in different countries and how is it affecting the literacy levels and education scenario ?
+What is population growth trend in different countries and how is it affecting the literacy levels and education scenario?
 
 How is internet playing a role in employment statistics of countries ?
 
